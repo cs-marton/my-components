@@ -1,0 +1,18 @@
+/* HTML:
+<div class="big-box">
+  <div class="little-box"></div>
+</div>
+*/
+
+.big-box {
+	width: 500px;
+}
+
+.little-box {
+	width: 50%;
+}
+
+/* RESULT:
+.little-box {
+	width: 250px;
+*/
