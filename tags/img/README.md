@@ -1,0 +1,1 @@
+A simple tag - <img> tag
