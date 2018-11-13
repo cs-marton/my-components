@@ -1,0 +1,11 @@
+body {
+  background: url('') no-repeat center center fixed;
+  background-size: cover;
+}
+
+/*
+background-image: url('http://i.imgur.com/9kh3G8L.jpg');
+background-repeat: no-repeat;
+background-position: center center;
+background-attachment: fixed;
+*/

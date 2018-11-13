@@ -1,0 +1,7 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* A flexboxhoz szükséged van legalább egy szülõ és egy gyermek elemre. A szülõ elem fogja meghatározni a gyermek elem megjelenését. */
