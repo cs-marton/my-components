@@ -1,3 +1,5 @@
-li {
-  display: inline;
+p, a {
+    display: block;
+    /*display: inline-block;*/
+    /*display: none;*/
 }

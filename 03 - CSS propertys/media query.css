@@ -1,0 +1,35 @@
+/*
+@media A (B1: B2) {
+...
+}
+
+A: media type (all, screen, print, speech)
+B: media query expression
+*/
+
+
+/* HTML!!:
+<head>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+*/
+
+@media (max-width: 420px) {
+
+	/* Demonstrational Styles */
+
+	aside,
+	section {
+		height: 48%;
+		margin-bottom: 1.096%;
+	}
+
+	/* Layout Styles */
+
+	aside,
+	section {
+		float: none;
+		width: auto;
+	}
+
+}
