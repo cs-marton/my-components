@@ -1,0 +1,5 @@
+.button-nav:hover {
+  color: #fff;
+  background-color: #000;
+  transition: background-color .15s ease-in-out;
+}
